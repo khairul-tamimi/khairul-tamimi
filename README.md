@@ -76,7 +76,7 @@
 
 <div align="center">
   <h3>🎮 Want a break from coding? Play Snake right here!</h3>
-  <img src="https://github.com/khairul-tamimi/khairul-tamimi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/khairul-tamimi/khairul-tamimi/output/snake.svg" alt="Snake animation" />
 </div>
 
 <details>
@@ -89,14 +89,7 @@
 
 </details>
 
-## 🌟 Featured Projects
 
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khairul-tamimi&repo=laravel-ecommerce&theme=radical&hide_border=true)](https://github.com/khairul-tamimi/laravel-ecommerce)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khairul-tamimi&repo=flutter-delivery-app&theme=radical&hide_border=true)](https://github.com/khairul-tamimi/flutter-delivery-app)
-
-</div>
 
 ## 🤝 Connect with Me
 
