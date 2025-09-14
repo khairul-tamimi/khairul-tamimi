@@ -72,33 +72,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khairul-tamimi&theme=react-dark&hide_border=true&area=true" alt="Activity Graph">
 </div>
 
-## 💼 What I'm Working On
+## 🐍 Snake Game - Play in My Profile!
 
-```php
-<?php
+<div align="center">
+  <h3>🎮 Want a break from coding? Play Snake right here!</h3>
+  <img src="https://github.com/khairul-tamimi/khairul-tamimi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-class KhairulTamimi extends Developer
-{
-    public function getCurrentProjects(): array
-    {
-        return [
-            'web' => ['Laravel 10 E-commerce Platform', 'Vue.js Dashboard'],
-            'mobile' => ['Flutter Delivery App', 'Cross-platform Inventory System'],
-            'learning' => ['Advanced Livewire Components', 'Flutter State Management']
-        ];
-    }
+<details>
+<summary>🎯 <b>How to Play</b></summary>
 
-    public function getFavoriteStack(): array
-    {
-        return [
-            'backend' => 'Laravel + Livewire',
-            'frontend' => 'Vue.js + Alpine.js',
-            'mobile' => 'Flutter',
-            'database' => 'MySQL/PostgreSQL'
-        ];
-    }
-}
-```
+- The snake eats your GitHub contributions
+- Watch it grow as it consumes your green squares!
+- This updates automatically based on your commit activity
+- More commits = more food for the snake! 🐍✨
+
+</details>
 
 ## 🌟 Featured Projects
 
