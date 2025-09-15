@@ -75,10 +75,10 @@
 
 ## 🐍 Snake Game - Play in My Profile!
 
-<div align="center">
-  <h3>🎮 Want a break from coding? Play Snake right here!</h3>
+<br clear="both">
+
  <img src="https://raw.githubusercontent.com/khairul-tamimi/khairul-tamimi/output/snake.svg" alt="Snake animation" />
-</div>
+
 
 <details>
 <summary>🎯 <b>How to Play</b></summary>
