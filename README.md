@@ -50,10 +50,10 @@
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/khairul-tamimi"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://twitter.com/khairul_tamimi"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="[https://linkedin.com/in/khairul-tamimi](https://www.linkedin.com/in/khairul-tamimi-9a34a2156/)"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://twitter.com/kukilamu"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="https://instagram.com/khairul_tamimi"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://khairul-tamimi.dev"><img src="https://skillicons.dev/icons?i=devto" height="40"/></a>
+
 </p>
 
 ---
